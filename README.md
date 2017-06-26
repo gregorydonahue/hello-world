@@ -1,2 +1,3 @@
 # hello-world
-Tutorial project
+Adding details to hello world
+Nothing to see here
